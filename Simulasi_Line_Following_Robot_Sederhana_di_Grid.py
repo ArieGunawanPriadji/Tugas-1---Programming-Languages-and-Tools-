@@ -1,3 +1,7 @@
+# Pada project ini dibuat simulasi sederhana dari robot untuk mengikuti jalur pada grid. 
+# Jalur ini akan ditandai dengan karakter tertentu (misalnya, 1 untuk jalur, 0 untuk kosong), dan robot harus bergerak mengikuti 1 sampai mencapai tujuan.
+# Output yang diharapkan dari project ini adalah pengguna dapat melihat grid diperbarui setiap kali robot bergerak.
+# Grid dapat diubah sesuai kebutuhan pengguna
 # Definisikan grid
 grid = [
     ['S', 1, 0, 0, 0],
